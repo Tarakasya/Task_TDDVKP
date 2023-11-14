@@ -4,11 +4,11 @@
 
 **Название EN:** Let's play
 
-**Сложность:** Easy/Medium/Hard?
+**Сложность:** Medium
 
 **Ответ:** Canon EOS R5
 
-**Автор:** Янковская А.Э.(372085)
+**Автор:** Янковская А.Э. (372085)
 
 **Дата:** 13.11.2023
 
@@ -19,17 +19,8 @@
 Old pirate ***Бенджамин Ганн*** from ***Трежер-инвестмент*** company has found threasure and bought brand new camera. Let's find out the name of the camera!
 
 # Решение
-Находим профиль в facebook и переходим в instagram профиль
-![..](files/step1.png)
-
-Находим в профиле instagram единственный пост с фотографией и qr-кодом
-![..](files/step2.png)
-
-По сканеру qr-кодов открываем ссылку с файлообменником и скачиваем фото
-![..](files/step3.png)
-
-Смотрим метаданные фотографии и находим модель камеры
-![..](files/step4.png)
+Находим профиль в ИСУ ИТМО
+![step1](https://github.com/Tarakasya/Task_TDDVKP/assets/62428483/abdb25e1-0ab3-4476-9943-fa0fc170c719)
 
 
 
