@@ -25,7 +25,7 @@ Hint: to find out the ISU number, remember the school curriculum in computer sci
 # Решение
 Шаг №1 Переводим число 5AD75 из шестнадцатиричной системы счисления в десятичную. Получаем 372085
 Шаг №2 Находим профиль в ИСУ ИТМО и переходим в репозиторий на GitHub
-![..](step1.png)
+![..](step1.PNG)
 ![step 2](https://github.com/Tarakasya/Task_TDDVKP/assets/62428483/f97a51ca-f549-4bc1-8469-4f93ae425299)
 Шаг №3 Изучаем фото в репозитории видим кафе KFC, на остановке на фото видим напдпись "Сэhэн сирэ". 
 ![step 3](https://github.com/Tarakasya/Task_TDDVKP/assets/62428483/f884fbb7-2c6d-4a18-8bf1-5067411a3e12)
