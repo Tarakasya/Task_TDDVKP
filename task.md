@@ -18,7 +18,9 @@
 
 
 # Текст задания EN
-Old pirate ***Бенджамин Ганн*** from ***Трежер-инвестмент*** company has found threasure and bought brand new camera. Let's find out the name of the camera!
+Traveling in Russia, a student of the faculty of BIT went to have a snack at a well-known fast food chain and forgot his phone there. Since the student is not a local, he does not know the address of this institution, but he remembered that he took a photo on the street next to him. This photo is in the student's repository, a link to which you will find in his ISU profile. Using the photo, help the student find the address of that institution. (In response, write the name of the street and the number of the house, for example, the street.Novolitovskaya, 22, answer Novolitovskaya 22)
+Hint: to find out the ISU number, remember the school curriculum in computer science - 5AD75
+
 
 # Решение
 Шаг №1 Переводим число 5AD75 из шестнадцатиричной системы счисления в десятичную. Получаем 372085
@@ -32,10 +34,3 @@ Old pirate ***Бенджамин Ганн*** from ***Трежер-инвестм
 ![step 5](https://github.com/Tarakasya/Task_TDDVKP/assets/62428483/efb2a999-bae7-4247-8165-1916bc1ab55f)
 Шаг №6 Проверяем оба адреса: открываем просмотр улиц и сравниваем с фото из репозитория - подходит вариант по адресу ул. Ломоносова, 47, Якутск, Респ. Саха (Якутия), 677027
 ![step 6](https://github.com/Tarakasya/Task_TDDVKP/assets/62428483/499f39e0-dd99-465f-a3fd-d6e31ad566af)
-
-
-
-
-
-
-
