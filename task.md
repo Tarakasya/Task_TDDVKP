@@ -26,10 +26,9 @@ Hint: to find out the ISU number, remember the school curriculum in computer sci
 Шаг №1 Переводим число 5AD75 из шестнадцатиричной системы счисления в десятичную. Получаем 372085
 Шаг №2 Находим профиль в ИСУ ИТМО и переходим в репозиторий на GitHub
 ![step 2](https://github.com/Tarakasya/Task_TDDVKP/assets/62428483/9030f0b0-35d2-4510-9a42-56d0bf77334d)
-
-![step 2](https://github.com/Tarakasya/Task_TDDVKP/assets/62428483/f97a51ca-f549-4bc1-8469-4f93ae425299)
 Шаг №3 Изучаем фото в репозитории видим кафе KFC, на остановке на фото видим напдпись "Сэhэн сирэ". 
-![step 3](https://github.com/Tarakasya/Task_TDDVKP/assets/62428483/f884fbb7-2c6d-4a18-8bf1-5067411a3e12)
+![step 3](https://github.com/Tarakasya/Task_TDDVKP/assets/62428483/20a7f623-4baa-4850-ad10-fcf51db1b876)
+
 Шаг №4 Вбиваем эту надпись в поисковик и видим что это передача якутской телекомпании
 ![step 4](https://github.com/Tarakasya/Task_TDDVKP/assets/62428483/f7de518c-07a5-4094-adc8-9c298e596208)
 Шаг №5 Вводим в Google Maps "KFC, Якутск", получаем два варианта
