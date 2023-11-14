@@ -28,10 +28,9 @@ Hint: to find out the ISU number, remember the school curriculum in computer sci
 ![step 2](https://github.com/Tarakasya/Task_TDDVKP/assets/62428483/9030f0b0-35d2-4510-9a42-56d0bf77334d)
 Шаг №3 Изучаем фото в репозитории видим кафе KFC, на остановке на фото видим напдпись "Сэhэн сирэ". 
 ![step 3](https://github.com/Tarakasya/Task_TDDVKP/assets/62428483/20a7f623-4baa-4850-ad10-fcf51db1b876)
-
 Шаг №4 Вбиваем эту надпись в поисковик и видим что это передача якутской телекомпании
-![step 4](https://github.com/Tarakasya/Task_TDDVKP/assets/62428483/f7de518c-07a5-4094-adc8-9c298e596208)
+![step 4](https://github.com/Tarakasya/Task_TDDVKP/assets/62428483/5b2b0b83-2534-4bcf-b3ce-c6f5d2ad8947)
 Шаг №5 Вводим в Google Maps "KFC, Якутск", получаем два варианта
-![step 5](https://github.com/Tarakasya/Task_TDDVKP/assets/62428483/efb2a999-bae7-4247-8165-1916bc1ab55f)
+![step 5](https://github.com/Tarakasya/Task_TDDVKP/assets/62428483/c7058943-2783-42cb-8919-dc765b625ab7)
 Шаг №6 Проверяем оба адреса: открываем просмотр улиц и сравниваем с фото из репозитория - подходит вариант по адресу ул. Ломоносова, 47, Якутск, Респ. Саха (Якутия), 677027
-![step 6](https://github.com/Tarakasya/Task_TDDVKP/assets/62428483/499f39e0-dd99-465f-a3fd-d6e31ad566af)
+![step 6](https://github.com/Tarakasya/Task_TDDVKP/assets/62428483/72c70ee8-aa83-421e-860b-7a2bfa3ce283)
